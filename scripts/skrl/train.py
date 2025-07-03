@@ -16,6 +16,7 @@ import argparse
 import sys
 
 from isaaclab.app import AppLauncher
+import humanoid_run
 
 # add argparse arguments
 parser = argparse.ArgumentParser(description="Train an RL agent with skrl.")
