@@ -1,7 +1,7 @@
 # Template for Isaac Lab Projects
 
-
-![IssacLab 5](https://img.shields.io/badge/IsaacLab-5.0-blue)
+![IssacSim 5](https://img.shields.io/badge/IssacSim-5.0-red)
+![IssacLab 5](https://img.shields.io/badge/IsaacLab-2.2-blue)
 ![Platform](https://img.shields.io/badge/Ubuntu-24.04-orange)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
